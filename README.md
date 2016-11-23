@@ -1,1 +1,3 @@
-[For the best experience I recommend reading this text on NBViewer](http://nbviewer.jupyter.org/github/ResidentMario/boston-airbnb-geo/blob/master/notebooks/boston-airbnb-geo.ipynb).
+# [A Deep Dive into Geospatial Analysis](http://nbviewer.jupyter.org/github/ResidentMario/boston-airbnb-geo/blob/master/notebooks/boston-airbnb-geo.ipynb)
+
+![text](https://github.com/ResidentMario/boston-airbnb-geo/blob/master/figures/header.png)
